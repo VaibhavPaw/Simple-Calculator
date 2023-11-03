@@ -3,7 +3,7 @@
 I developed a Simple Calculator app using java. 
 
 # Steps:
-1. Download my zip & Extract it.
+1. Download zip file & Extract it.
 2. Open the extracted file in Android Studio and then run it. 
 
 # Input :
